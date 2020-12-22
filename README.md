@@ -3,9 +3,13 @@
 https://jose-lopez-galdon.shinyapps.io/flight_explorer/
 ### Integrantes del grupo
 Carlos Rodriguez: c.rodriguezvina@cunef.edu
+
 Francisco del Val: francisco.delval@cunef.edu
+
 Jose Lopez: jose.lopez@cunef.edu
+
 Octavio del Sueldo: hugo.delsueldo@cunef.edu
+
 Iñigo Martiarena: inigo.martiarena@cunef.edu
 
 ### Objetivo del trabajo
